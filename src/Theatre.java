@@ -46,6 +46,6 @@ public class Theatre {
         System.out.println();
         opera.libretto();
         ballet.libretto();
-        //-----
+        //------
     }
 }

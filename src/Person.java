@@ -1,5 +1,5 @@
 public class Person {
-    public String name;
+    protected String name;
     public String surname;
     public Gender gender;
 

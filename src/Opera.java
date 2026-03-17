@@ -10,5 +10,6 @@ public class Opera extends MusicalShow {
 
     public int getChoirSize() {
         return choirSize;
+
     }
 }

@@ -5,5 +5,6 @@ public class Ballet extends MusicalShow {
 
         super(title, duration, director, musicAuthor, librettoText);
         this.choreographer = choreographer;
+
     }
 }

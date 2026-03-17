@@ -38,7 +38,6 @@ public class Show {
                 return;
             }
         }
-
         System.out.println("Такой актер не найден!");
     }
 }

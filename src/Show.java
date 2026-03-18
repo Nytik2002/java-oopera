@@ -1,9 +1,9 @@
 import  java.util.ArrayList;
 public class Show {
     protected String title;
-    int duration;
-    Director director;
-    ArrayList<Actor> listOfActors;
+    protected int duration;
+    protected Director director;
+    protected ArrayList<Actor> listOfActors;
 
     public Show(String title, int duration, Director director) {
         this.title = title;
